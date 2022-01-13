@@ -1,0 +1,10 @@
+[Iniciar]
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:edywmaster/temp-repo.git
+
+[Atualizar]
+git add .
+git commit -m 'Initial'
+git push -u origin main
