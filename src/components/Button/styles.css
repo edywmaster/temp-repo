@@ -1,0 +1,13 @@
+.button-loadmore {
+    width: 100%;
+    background: darkblue;
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+
+.button-loadmore:disabled {
+    background: #ccc;
+    cursor: not-allowed;
+}
