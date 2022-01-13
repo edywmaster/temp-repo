@@ -8,3 +8,6 @@ git remote add origin git@github.com:edywmaster/temp-repo.git
 git add .
 git commit -m 'Initial'
 git push -u origin main
+
+[Log commits]
+git log --oneline
